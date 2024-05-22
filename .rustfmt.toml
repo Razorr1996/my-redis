@@ -1,0 +1,19 @@
+unstable_features = true
+
+blank_lines_upper_bound = 1
+
+group_imports = "StdExternalCrate"
+imports_granularity = "Crate"
+reorder_imports = true
+
+hex_literal_case = "Lower"
+
+match_block_trailing_comma = true
+
+overflow_delimited_expr = true
+
+reorder_impl_items = true
+
+newline_style = "Unix"
+
+fn_single_line = false
