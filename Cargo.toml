@@ -6,3 +6,5 @@ authors = ["Artem Basalaev <basa62.1996@gmail.com>"]
 rust-version = "1.78"
 
 [dependencies]
+tokio = { version = "1.37.0", features = ["full"] }
+mini-redis = "0.4.1"
